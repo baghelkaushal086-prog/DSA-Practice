@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/baghelkaushal086-prog/DSA-Practice/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/baghelkaushal086-prog/DSA-Practice/tree/master/0189-rotate-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/baghelkaushal086-prog/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/baghelkaushal086-prog/DSA-Practice/tree/master/0877-stone-game) |
 ## Recursion
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/baghelkaushal086-prog/DSA-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0189-rotate-array](https://github.com/baghelkaushal086-prog/DSA-Practice/tree/master/0189-rotate-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/baghelkaushal086-prog/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/baghelkaushal086-prog/DSA-Practice/tree/master/0877-stone-game) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/baghelkaushal086-prog/DSA-Practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Two Pointers
 |  |
@@ -55,8 +57,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/baghelkaushal086-prog/DSA-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0877-stone-game](https://github.com/baghelkaushal086-prog/DSA-Practice/tree/master/0877-stone-game) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/baghelkaushal086-prog/DSA-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/baghelkaushal086-prog/DSA-Practice/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
