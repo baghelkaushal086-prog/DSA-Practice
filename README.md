@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/baghelkaushal086-prog/DSA-Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/baghelkaushal086-prog/DSA-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0189-rotate-array](https://github.com/baghelkaushal086-prog/DSA-Practice/tree/master/0189-rotate-array) |
 | [0486-predict-the-winner](https://github.com/baghelkaushal086-prog/DSA-Practice/tree/master/0486-predict-the-winner) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/baghelkaushal086-prog/DSA-Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/baghelkaushal086-prog/DSA-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/baghelkaushal086-prog/DSA-Practice/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Tree
