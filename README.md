@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/baghelkaushal086-prog/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/baghelkaushal086-prog/DSA-Practice/tree/master/0877-stone-game) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/baghelkaushal086-prog/DSA-Practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [3731-find-missing-elements](https://github.com/baghelkaushal086-prog/DSA-Practice/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/baghelkaushal086-prog/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
+| [3731-find-missing-elements](https://github.com/baghelkaushal086-prog/DSA-Practice/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -73,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/baghelkaushal086-prog/DSA-Practice/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/baghelkaushal086-prog/DSA-Practice/tree/master/0877-stone-game) |
+## Hash Table
+|  |
+| ------- |
+| [3731-find-missing-elements](https://github.com/baghelkaushal086-prog/DSA-Practice/tree/master/3731-find-missing-elements) |
 <!---LeetCode Topics End-->
