@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/baghelkaushal086-prog/DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/baghelkaushal086-prog/DSA-Practice/tree/master/0189-rotate-array) |
 ## Sorting
 |  |
@@ -79,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3731-find-missing-elements](https://github.com/baghelkaushal086-prog/DSA-Practice/tree/master/3731-find-missing-elements) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/baghelkaushal086-prog/DSA-Practice/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
