@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/baghelkaushal086-prog/DSA-Practice/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/baghelkaushal086-prog/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/baghelkaushal086-prog/DSA-Practice/tree/master/0877-stone-game) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/baghelkaushal086-prog/DSA-Practice/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Recursion
 |  |
 | ------- |
@@ -86,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/baghelkaushal086-prog/DSA-Practice/tree/master/0125-valid-palindrome) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/baghelkaushal086-prog/DSA-Practice/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
