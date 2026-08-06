@@ -1,21 +1,23 @@
 class Solution {
 public:
-    int smallestNumber(int n, int t) {
-        while (true) {
-            if (get_digit_product(n) % t == 0) {
+    int smallestNumber(int n, int t) 
+    {
+        while(true)
+        {
+            int temp=n;
+            int prod=1;
+
+            while(temp>0)
+            {
+                prod*=(temp%10);
+                temp/=10;
+            }
+            if(prod%t==0)
+            {
                 return n;
             }
             n++;
         }
-    }
-
-private:
-    int get_digit_product(int num) {
-        int product = 1;
-        while (num > 0) {
-            product *= (num % 10);
-            num /= 10;
-        }
-        return product;
+        
     }
 };
