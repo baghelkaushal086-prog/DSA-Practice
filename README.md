@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/baghelkaushal086-prog/DSA-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/baghelkaushal086-prog/DSA-Practice/tree/master/0110-balanced-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/baghelkaushal086-prog/DSA-Practice/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/baghelkaushal086-prog/DSA-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0700-search-in-a-binary-search-tree](https://github.com/baghelkaushal086-prog/DSA-Practice/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Search Tree
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/baghelkaushal086-prog/DSA-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/baghelkaushal086-prog/DSA-Practice/tree/master/0110-balanced-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/baghelkaushal086-prog/DSA-Practice/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/baghelkaushal086-prog/DSA-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0700-search-in-a-binary-search-tree](https://github.com/baghelkaushal086-prog/DSA-Practice/tree/master/0700-search-in-a-binary-search-tree) |
 ## Dynamic Programming
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/baghelkaushal086-prog/DSA-Practice/tree/master/0110-balanced-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/baghelkaushal086-prog/DSA-Practice/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/baghelkaushal086-prog/DSA-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Game Theory
 |  |
@@ -94,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/baghelkaushal086-prog/DSA-Practice/tree/master/3345-smallest-divisible-digit-product-i) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/baghelkaushal086-prog/DSA-Practice/tree/master/0111-minimum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
